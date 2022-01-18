@@ -1,4 +1,5 @@
-### 🖖 Hi there
+### <img height=36 src="https://distok.top/stickers/817709667701751820/819128604311027752.gif" /> &nbsp; [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FEC89B&vCenter=true&height=24&lines=Hey+there;Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit.;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Glib+jocks+quiz+nymph+to+vex+dwarf;Jived+fox+nymph+grabs+quick+waltz;The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
+https://readme-typing-svg.herokuapp.com/demo/
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=picklenik&label=Profile%20views&color=0e75b6&style=flat" alt="picklenik" /> </p>
 
@@ -20,8 +21,8 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=picklenik&show_icons=true&locale=en&layout=compact" alt="picklenik" /></p> -->
 <p>
-  <img align=left width="47%" src="https://github-readme-stats.vercel.app/api?username=picklenik&theme=dark&show_icons=true&locale=en" />
-  <img align=right width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=picklenik&theme=dark" />
+  <img align=left width=47% src="https://github-readme-stats.vercel.app/api?username=picklenik&theme=onedark&show_icons=true&locale=en" />
+  <img align=right width=47% src="https://github-readme-streak-stats.herokuapp.com/?user=picklenik&theme=onedark" />
 </p>
 
 
@@ -34,6 +35,10 @@
 \
 \
 &nbsp;
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 
 <p align=center>
