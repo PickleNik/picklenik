@@ -2,8 +2,10 @@
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 
 <!-- <img height=48 src=http://31.media.tumblr.com/be5c873d83b2592286ca72147c36337c/tumblr_nbwgb5Jo2d1txalrwo1_500.gif /> -->
-<p align=center>
-  <img height=250 src=https://i.pinimg.com/originals/67/fc/cd/67fccd215854dffa6a9d289870479a01.gif />
+<p align=justify>
+  <img height=250 width=33% src=https://64.media.tumblr.com/037cef717d8faf83379d7b6a36c4ed3a/tumblr_ont3zyBF7r1uf5j8co1_400.gifv />
+  <img height=250 width=33% src=https://i.pinimg.com/originals/67/fc/cd/67fccd215854dffa6a9d289870479a01.gif />
+  <img height=250 width=33% src=https://64.media.tumblr.com/bd322dfef36a364995c922c3d7840d7d/tumblr_onmsdpocp51uf5j8co1_500.gifv />
 <!--   <img height=250 src=https://data.whicdn.com/images/346072768/original.gif /> -->
 </p>
 <!-- 
