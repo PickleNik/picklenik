@@ -1,37 +1,20 @@
-### <img height=36 src="https://distok.top/stickers/817709667701751820/819128604311027752.gif" /> &nbsp; [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FEC89B&vCenter=true&height=24&lines=Hey+there;Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit.;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Glib+jocks+quiz+nymph+to+vex+dwarf;Jived+fox+nymph+grabs+quick+waltz;The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
+### <img height=36 src="https://distok.top/stickers/817709667701751820/819128604311027752.gif" /> &nbsp; [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FEC89B&vCenter=true&height=24&lines=Hey+there;Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit.;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Glib+jocks+quiz+nymph+to+vex+dwarf;Jived+fox+nymph+grabs+quick+waltz;The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg) 
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 
-<!-- <img height=48 src=http://31.media.tumblr.com/be5c873d83b2592286ca72147c36337c/tumblr_nbwgb5Jo2d1txalrwo1_500.gif /> -->
-<p align=justify>
-  <img height=250 width=33% src=https://64.media.tumblr.com/037cef717d8faf83379d7b6a36c4ed3a/tumblr_ont3zyBF7r1uf5j8co1_400.gifv />
-  <img height=250 width=33% src=https://i.pinimg.com/originals/67/fc/cd/67fccd215854dffa6a9d289870479a01.gif />
-  <img height=250 width=33% src=https://64.media.tumblr.com/bd322dfef36a364995c922c3d7840d7d/tumblr_onmsdpocp51uf5j8co1_500.gifv />
-<!--   <img height=250 src=https://data.whicdn.com/images/346072768/original.gif /> -->
+<p align=center>
+  <img align=center width=30% src=https://data.whicdn.com/images/346072768/original.gif />
+  <img align=center width=30% src=https://64.media.tumblr.com/037cef717d8faf83379d7b6a36c4ed3a/tumblr_ont3zyBF7r1uf5j8co1_400.gifv />
+  <img align=center width=30% src=https://64.media.tumblr.com/bd322dfef36a364995c922c3d7840d7d/tumblr_onmsdpocp51uf5j8co1_500.gifv />
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=picklenik&show_icons=true&locale=en&layout=compact" alt="picklenik" /></p> -->
-<p>
-  <img width=45% height=250 align=left src="https://github-readme-stats.vercel.app/api?username=picklenik&theme=onedark&show_icons=true&locale=en" />
-  <img width=45% height=250 align=right src="https://github-readme-streak-stats.herokuapp.com/?user=picklenik&theme=onedark" />
-</p>
-
-\
-\
-\
-\
-\
-\
-\
-\
-&nbsp;
-
-<p align=center> <img src="https://komarev.com/ghpvc/?username=picklenik&label=Profile%20views&color=0e75b6&style=flat" alt="picklenik" /> </p>
-
-<!-- <p align="left"> <a href="https://twitter.com/pick1enik" target="blank"><img src="https://img.shields.io/twitter/follow/pick1enik?logo=twitter&style=for-the-badge" alt="pick1enik" /></a> </p> -->
-<p> </p>
+<!-- <p align=center>
+  <img align=center width=40% src="https://github-readme-stats.vercel.app/api?username=picklenik&bg_color=0000&text_color=888&title_color=FEC89B&icon_color=FEC89B&show_icons=true&hide_border=true" />
+  <img align=center width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=picklenik&background=0000&hide_border=true" />
+</p> -->
+<!-- http://github-readme-streak-stats.herokuapp.com/demo/ -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
-
 <!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) -->
 
 
@@ -41,11 +24,11 @@
 <!-- Twattar & LinkedIn -->
 
 <p align=center>
-  <a href=https://twitter.com/pick1enik>
+  <a target=_blank href=https://twitter.com/pick1enik>
     <img height=24 width=24 src=https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/LINKEDIN-256.png />
   </a>
   &nbsp;&nbsp;
-  <a href=https://www.linkedin.com/in/picklenik>
+  <a target=_blank href=https://www.linkedin.com/in/picklenik>
     <img height=24 width=24 src=https://cdn2.iconfinder.com/data/icons/social-icons-grey/512/TWITTER-256.png />
   </a>
 </p>
