@@ -1,17 +1,19 @@
 
 <!-- Hey There -->
 <div>
+  &nbsp;
   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
+  &emsp;
   <a href=https://readme-typing-svg.herokuapp.com/demo >
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23f88469&size=16&vCenter=true&center=false&&width=400&height=24&lines=Hey+there;Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit.;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Glib+jocks+quiz+nymph+to+vex+dwarf;Jived+fox+nymph+grabs+quick+waltz;The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23f88469&size=16&vCenter=true&center=false&&width=250&height=36&lines=Hey+there;Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit.;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Glib+jocks+quiz+nymph+to+vex+dwarf;Jived+fox+nymph+grabs+quick+waltz;The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump" />
   </a>
 </div>
 
 <!-- Color Palette -->
-![#f88469](https://via.placeholder.com/16/f88469/000000?text=+)
-![#ffc89b](https://via.placeholder.com/16/ffc89b/000000?text=+)
-![#4a9e90](https://via.placeholder.com/16/4a9e90/000000?text=+)
-![#7cd6af](https://via.placeholder.com/16/7cd6af/000000?text=+)
+![#f88469](https://via.placeholder.com/16/f88469/000000?text=+) &hairsp;
+![#ffc89b](https://via.placeholder.com/16/ffc89b/000000?text=+) &hairsp;
+![#4a9e90](https://via.placeholder.com/16/4a9e90/000000?text=+) &hairsp;
+![#7cd6af](https://via.placeholder.com/16/7cd6af/000000?text=+) &hairsp;
 
 <!-- Github Stats -->
 <!-- <p align=center>
@@ -32,12 +34,10 @@
 
 <!-- Weird Blob Gif(s) -->
 <p align=right>
-<!--   <img width=30% src=https://data.whicdn.com/images/346072768/original.gif /> -->
-  <img width=30% src=https://64.media.tumblr.com/037cef717d8faf83379d7b6a36c4ed3a/tumblr_ont3zyBF7r1uf5j8co1_400.gifv />
-<!--   <img width=30% src=https://64.media.tumblr.com/bd322dfef36a364995c922c3d7840d7d/tumblr_onmsdpocp51uf5j8co1_500.gifv /> -->
+  <img width=250 src=https://data.whicdn.com/images/346072768/original.gif />
 </p>
 
-<!-- Twattar, LinkedIn, DevTo, Dribbble, Medium, YouTube -->
+<!-- LinkedIn, Twattar, YouTube, DevTo, Medium, Dribbble -->
 <div align=right>
   <a href=https://www.linkedin.com/in/picklenik>
     <img height=24 width=24 src=./icons/linkedin.svg />
@@ -46,10 +46,10 @@
   <a href=https://twitter.com/pick1enik>
     <img height=24 width=24 src=./icons/twitter.svg />
   </a>
-  &nbsp;&nbsp;
+<!--   &nbsp;&nbsp;
   <a href=https://www.youtube.com/channel/UClAVtmyqWKT9HY8JX9aalCQ>
     <img height=24 width=24 src=./icons/youtube.svg />
-  </a>
+  </a> -->
   &nbsp;&nbsp;
   <a href=https://dev.to/picklenik>
     <img height=24 width=24 src=./icons/devdotto.svg />
@@ -58,13 +58,9 @@
   <a href=https://medium.com/@picklenik>
     <img height=24 width=24 src=./icons/medium.svg />
   </a>
-  &nbsp;&nbsp;
+<!--   &nbsp;&nbsp;
   <a href=https://dribbble.com/pick1enik>
     <img height=24 width=24 src=./icons/dribbble.svg />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a> -->
 </div>
-
-
-
 
