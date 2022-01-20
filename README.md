@@ -1,7 +1,12 @@
 
+<!-- Color Palette -->
+![#f88469](https://via.placeholder.com/16/f88469/000000?text=+)
+![#ffc89b](https://via.placeholder.com/16/ffc89b/000000?text=+)
+![#4a9e90](https://via.placeholder.com/16/4a9e90/000000?text=+)
+![#7cd6af](https://via.placeholder.com/16/7cd6af/000000?text=+)
+
 <!-- Hey There -->
 <div>
-  &nbsp;
   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
   &emsp;
   <a href=https://readme-typing-svg.herokuapp.com/demo >
@@ -9,20 +14,17 @@
   </a>
 </div>
 
-<!-- Color Palette -->
-![#f88469](https://via.placeholder.com/16/f88469/000000?text=+) &hairsp;
-![#ffc89b](https://via.placeholder.com/16/ffc89b/000000?text=+) &hairsp;
-![#4a9e90](https://via.placeholder.com/16/4a9e90/000000?text=+) &hairsp;
-![#7cd6af](https://via.placeholder.com/16/7cd6af/000000?text=+) &hairsp;
-
+&nbsp;
 <!-- GitHub Stats & Streak -->
-<p>
+<p align=center >
   <a href=https://github.com/anuraghazra/github-readme-stats >
-    <img align=left width=42% src="https://github-readme-stats.vercel.app/api?username=picklenik&bg_color=0000&text_color=888&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=888&border_radius=20" />
+    <img width=420 src="https://github-readme-stats.vercel.app/api?username=picklenik&bg_color=0000&text_color=888&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=555&border_radius=3" />
   </a>
+  &emsp;
   <a href=http://github-readme-streak-stats.herokuapp.com/demo >
-    <img align=right width=42% src="https://github-readme-streak-stats.herokuapp.com/?user=picklenik&background=0000&border=0000&stroke=888&ring=ffc89b&fire=f88469&currStreakLabel=f88469&currStreakNum=4a9e90&sideLabels=f88469&sideNums=4a9e90&dates=888" />
+    <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=picklenik&background=0000&border=666&stroke=555&ring=ffc89b&fire=f88469&currStreakLabel=f88469&currStreakNum=4a9e90&sideLabels=f88469&sideNums=4a9e90&dates=888" />
   </a>
+  &emsp;
 </p>
 
 
