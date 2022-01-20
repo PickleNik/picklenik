@@ -18,8 +18,6 @@
 <!-- GitHub Streak -->
 <div align=center >
   <br />
-  <br />
-  <br />
   <a href=http://github-readme-streak-stats.herokuapp.com/demo >
     <img width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=picklenik&background=0000&border=0000&stroke=888&ring=ffc89b&fire=f88469&currStreakLabel=f88469&currStreakNum=4a9e90&sideLabels=f88469&sideNums=4a9e90&dates=888" />
   </a>
@@ -105,7 +103,7 @@
 
 <!-- Donut -->
 <p align=right>
-  <img width=250 src=https://data.whicdn.com/images/346072768/original.gif />
+  <img width=200 src=https://data.whicdn.com/images/346072768/original.gif />
 </p>
 
 <!-- LinkedIn, Twattar, YouTube, DevTo, Medium, Dribbble -->
