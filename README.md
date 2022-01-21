@@ -18,6 +18,7 @@
 <!-- GitHub Streak -->
 <div align=center >
   <br />
+  <br />
   <a href=http://github-readme-streak-stats.herokuapp.com/demo >
     <img width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=picklenik&background=0000&border=0000&stroke=888&ring=ffc89b&fire=f88469&currStreakLabel=f88469&currStreakNum=4a9e90&sideLabels=f88469&sideNums=4a9e90&dates=888" />
   </a>
@@ -25,7 +26,7 @@
 <!-- GitHub Stats -->
 <p align=center >
   <a href=https://github.com/anuraghazra/github-readme-stats >
-    <img width=420 src="https://github-readme-stats.vercel.app/api?username=picklenik&bg_color=0000&text_color=888&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=888&border_radius=3" />
+    <img width=420 src="https://github-readme-stats.vercel.app/api?username=picklenik&bg_color=0000&text_color=888&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=888&border_radius=16" />
   </a>
 </p>
 
