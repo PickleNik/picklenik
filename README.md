@@ -17,8 +17,6 @@
 &nbsp;
 <!-- GitHub Streak -->
 <div align=center >
-  <br />
-  <br />
   <a href=http://github-readme-streak-stats.herokuapp.com/demo >
     <img width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=picklenik&background=0000&border=0000&stroke=888&ring=ffc89b&fire=f88469&currStreakLabel=f88469&currStreakNum=4a9e90&sideLabels=f88469&sideNums=4a9e90&dates=888" />
   </a>
@@ -36,7 +34,7 @@
 <!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) -->
 
 <!-- Tech Stack Icons -->
-<p align="center">
+<div align="center">
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
@@ -100,7 +98,7 @@
   <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
   </a>
-</p>
+</div>
 
 <!-- Donut -->
 <p align=right>
