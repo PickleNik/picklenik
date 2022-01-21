@@ -48,7 +48,11 @@
   </a>
   &hairsp;
   <a href=https://www.selenium.dev >
-    <img src=./stack/selenium.svg alt=qt width=24 height=24 />
+    <img src=./stack/selenium.svg alt=selenium width=24 height=24 />
+  </a>
+  &hairsp;
+  <a href=https://www.ecma-international.org/publications-and-standards/standards/ecma-262 >
+    <img src=./stack/javascript.svg alt=javascript width=24 height=24 />
   </a>
   &hairsp;
   <a href=https://firebase.google.com >
