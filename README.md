@@ -34,69 +34,58 @@
 <!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) -->
 
 <!-- Tech Stack Icons -->
-<div align="center">
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+<p align="center">
+  <a href=https://vuejs.org >
+    <img src=./stack/vuedotjs.svg alt=vuejs width=24 height=24 />
   </a>
-  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
+  &hairsp;
+  <a href=https://nuxtjs.org >
+    <img src=./stack/nuxtdotjs.svg alt=nuxtjs width=24 height=24 />
   </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
+  &hairsp;
+  <a href=https://tailwindcss.com >
+    <img src=./stack/tailwindcss.svg alt=tailwind width=24 height=24 />
   </a>
-  <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/>
+  &hairsp;
+  <a href=https://www.selenium.dev >
+    <img src=./stack/selenium.svg alt=qt width=24 height=24 />
   </a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
+  &hairsp;
+  <a href=https://firebase.google.com >
+    <img src=./stack/firebase.svg alt=firebase width=24 height=24 />
   </a>
-  <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
+  &hairsp;
+  <a href=https://svelte.dev >
+    <img src=./stack/svelte.svg alt=svelte width=24 height=24 />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  &hairsp;
+  <a href=https://quasar.dev >
+    <img src=./stack/quasar.svg alt=quasar width=24 height=24 />
   </a>
-  
-  <br />
-  
-<!--   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+  &hairsp;
+  <a href=https://vuetifyjs.com/en >
+    <img src=./stack/vuetify.svg alt=vuetify width=24 height=24 />
   </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+</p>
+<div align=center >
+  <a href=https://linux.org >
+    <img src=./stack/linux.svg alt=linux width=24 height=24 />
   </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
+  &hairsp;
+  <a href=https://www.figma.com >
+    <img src=./stack/figma.svg alt=figma width=24 height=24 />
   </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+  &hairsp;
+  <a href=https://www.gnu.org/software/emacs/ >
+    <img src=./stack/gnuemacs.svg alt=emacs width=24 height=24 />
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  &hairsp;
+  <a href=https://ubuntu.com >
+    <img src=./stack/ubuntu.svg alt=ubuntu width=24 height=24 />
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a> -->
-  
-<!--   <br /> -->
-  
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
+  &hairsp;
+  <a href=https://flutter.dev >
+    <img src=./stack/flutter.svg alt=flutter width=24 height=24 />
   </a>
 </div>
 
@@ -108,11 +97,11 @@
 <!-- LinkedIn, Twattar, YouTube, DevTo, Medium, Dribbble -->
 <div align=right>
   <a href=https://www.linkedin.com/in/picklenik>
-    <img height=24 width=24 src=./icons/linkedin.svg />
+    <img height=24 width=24 src=./links/linkedin.svg />
   </a>
   &nbsp;&nbsp;
   <a href=https://twitter.com/pick1enik>
-    <img height=24 width=24 src=./icons/twitter.svg />
+    <img height=24 width=24 src=./links/twitter.svg />
   </a>
 <!--   &nbsp;&nbsp;
   <a href=https://www.youtube.com/channel/UClAVtmyqWKT9HY8JX9aalCQ>
@@ -120,11 +109,11 @@
   </a> -->
   &nbsp;&nbsp;
   <a href=https://dev.to/picklenik>
-    <img height=24 width=24 src=./icons/devdotto.svg />
+    <img height=24 width=24 src=./links/devdotto.svg />
   </a>
   &nbsp;&nbsp;
   <a href=https://medium.com/@picklenik>
-    <img height=24 width=24 src=./icons/medium.svg />
+    <img height=24 width=24 src=./links/medium.svg />
   </a>
 <!--   &nbsp;&nbsp;
   <a href=https://dribbble.com/pick1enik>
