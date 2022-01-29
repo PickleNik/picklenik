@@ -123,5 +123,9 @@
   <a href=https://dribbble.com/pick1enik>
     <img height=24 width=24 src=./icons/dribbble.svg />
   </a> -->
+  &emsp;
+  <img height=auto width=69 src=./monerochan.png />
+    <br/>
+  <code>45i71w3nFujicp2ztGjyAX9cFq8o42SmrPEfjm5ei9Lo3WeisQf5hCGXSnUYKgGh8EAYSt1XukQitUvoDteBeC1JDh8T3Uv</code>
 </div>
 
