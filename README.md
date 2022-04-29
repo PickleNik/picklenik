@@ -93,18 +93,18 @@
   </a>
 </div>
 
-<!-- Donut -->
-<!-- <p align=right>
-  <img width=200 src=https://data.whicdn.com/images/346072768/original.gif />
-</p>
- -->
 \
 \
 \
 &nbsp;
+
+<!-- Donut -->
+<p align=right>
+  <img width=200 src=https://data.whicdn.com/images/346072768/original.gif />
+</p>
  
 <!-- LinkedIn, Twattar, YouTube, DevTo, Medium, Dribbble -->
-<div align=right>
+<!-- <div align=right>
   <a href=https://www.linkedin.com/in/picklenik>
     <img height=24 width=24 src=./links/linkedin.svg />
   </a>
@@ -112,10 +112,10 @@
   <a href=https://twitter.com/pick1enik>
     <img height=24 width=24 src=./links/twitter.svg />
   </a>
-<!--   &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href=https://www.youtube.com/channel/UClAVtmyqWKT9HY8JX9aalCQ>
     <img height=24 width=24 src=./icons/youtube.svg />
-  </a> -->
+  </a>
   &nbsp;&nbsp;
   <a href=https://dev.to/picklenik>
     <img height=24 width=24 src=./links/devdotto.svg />
@@ -124,13 +124,18 @@
   <a href=https://medium.com/@picklenik>
     <img height=24 width=24 src=./links/medium.svg />
   </a>
-<!--   &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href=https://dribbble.com/pick1enik>
     <img height=24 width=24 src=./icons/dribbble.svg />
-  </a> -->
+  </a>
   &emsp;
+</div> -->
+
+<!-- Monero -->
+<!-- <div align=center>
   <img height=auto width=69 src=./monerochan.png />
     <br/>
+  XMR
+    <br />
   <code>45i71w3nFujicp2ztGjyAX9cFq8o42SmrPEfjm5ei9Lo3WeisQf5hCGXSnUYKgGh8EAYSt1XukQitUvoDteBeC1JDh8T3Uv</code>
-</div>
-
+</div> -->
