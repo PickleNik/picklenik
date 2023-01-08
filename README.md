@@ -103,9 +103,9 @@
 &nbsp;
 
 <!-- Donut -->
-<p align=right>
+<!-- <p align=right>
   <img width=200 src=https://data.whicdn.com/images/346072768/original.gif />
-</p>
+</p> -->
  
 <!-- LinkedIn, Twattar, YouTube, DevTo, Medium, Dribbble -->
 <!-- <div align=right>
