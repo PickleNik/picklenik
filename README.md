@@ -9,8 +9,6 @@
 **(!!!DON'T, use the `💖 Sponsor` button instead, Github takes 0% fees)** -->
 
 <!-- Hey There -->
-
-&nbsp;
 <!-- GitHub Streak -->
 <!-- <div align=center >
   <a href=http://github-readme-streak-stats.herokuapp.com/demo >
@@ -18,15 +16,13 @@
   </a>
 </div> -->
 <p align=center>
-  <img align=center src="https://komarev.com/ghpvc/?username=picklenik" />
   <br />
   https://vuetube.app/
   <br />
   https://realzoo.itsyipy.com/
   <br />
   https://returnyoutubedislike.com/
-</p>
-<p align=center>
+  <br />
   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
   &emsp;
   <a href=https://readme-typing-svg.herokuapp.com/demo >
@@ -149,3 +145,4 @@
     <br />
   <code>45i71w3nFujicp2ztGjyAX9cFq8o42SmrPEfjm5ei9Lo3WeisQf5hCGXSnUYKgGh8EAYSt1XukQitUvoDteBeC1JDh8T3Uv</code>
 </div> -->
+  <img align=right src="https://komarev.com/ghpvc/?username=picklenik" />
