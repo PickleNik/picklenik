@@ -6,6 +6,8 @@
 <!-- ![#7cd6af](https://via.placeholder.com/16/7cd6af/000000?text=+) -->
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O8D7CBX)
 
+**(DON'T, use the `Sponsor` button instead, Github takes 0% fees)**
+
 <!-- Hey There -->
 <p>
   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
