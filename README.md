@@ -1,13 +1,10 @@
-
 <!-- Color Palette -->
 <!-- ![#f88469](https://via.placeholder.com/16/f88469/000000?text=+) -->
 <!-- ![#ffc89b](https://via.placeholder.com/16/ffc89b/000000?text=+) -->
 <!-- ![#4a9e90](https://via.placeholder.com/16/4a9e90/000000?text=+) -->
 <!-- ![#7cd6af](https://via.placeholder.com/16/7cd6af/000000?text=+) -->
 <!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O8D7CBX)
-
 **(!!!DON'T, use the `💖 Sponsor` button instead, Github takes 0% fees)** -->
-
 <!-- Hey There -->
 <!-- GitHub Streak -->
 <!-- <div align=center >
@@ -103,12 +100,10 @@
 
 \
 &nbsp;
-
 <!-- Donut -->
 <!-- <p align=right>
   <img width=200 src=https://data.whicdn.com/images/346072768/original.gif />
 </p> -->
- 
 <!-- LinkedIn, Twattar, YouTube, DevTo, Medium, Dribbble -->
 <!-- <div align=right>
   <a href=https://www.linkedin.com/in/picklenik>
@@ -136,7 +131,6 @@
   </a>
   &emsp;
 </div> -->
-
 <!-- Monero -->
 <!-- <div align=center>
   <img height=auto width=69 src=./monerochan.png />
@@ -145,4 +139,4 @@
     <br />
   <code>45i71w3nFujicp2ztGjyAX9cFq8o42SmrPEfjm5ei9Lo3WeisQf5hCGXSnUYKgGh8EAYSt1XukQitUvoDteBeC1JDh8T3Uv</code>
 </div> -->
-  <img align=right src="https://komarev.com/ghpvc/?username=picklenik" />
+ <img align=right src="https://komarev.com/ghpvc/?username=picklenik" />
