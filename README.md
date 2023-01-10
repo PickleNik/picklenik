@@ -23,7 +23,7 @@
   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
   &emsp;
   <a href=https://readme-typing-svg.herokuapp.com/demo >
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23f88469&size=16&vCenter=true&center=false&&width=250&height=36&lines=Hey+there;Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit.;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Glib+jocks+quiz+nymph+to+vex+dwarf;Jived+fox+nymph+grabs+quick+waltz;The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23f88469&size=16&vCenter=true&center=false&&width=250&height=36&lines=Hey+there;Discord%3A%20PickleNik%230864;" />
   </a>
 </p>
 <!-- GitHub Stats -->
