@@ -1,18 +1,21 @@
-<!-- Color Palette -->
+<!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O8D7CBX) -->
+
+
+<!-- Color Palette (Deadlinks) -->
 <!-- ![#f88469](https://via.placeholder.com/16/f88469/000000?text=+) -->
 <!-- ![#ffc89b](https://via.placeholder.com/16/ffc89b/000000?text=+) -->
 <!-- ![#4a9e90](https://via.placeholder.com/16/4a9e90/000000?text=+) -->
 <!-- ![#7cd6af](https://via.placeholder.com/16/7cd6af/000000?text=+) -->
-<!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O8D7CBX)
-**(!!!DON'T, use the `💖 Sponsor` button instead, Github takes 0% fees)** -->
-<!-- Hey There -->
-<!-- GitHub Streak -->
+
+<!-- GitHub Streak (Deadlinks) -->
 <!-- <div align=center >
   <a href=http://github-readme-streak-stats.herokuapp.com/demo >
     <img width=300 height=118 src="https://github-readme-streak-stats.herokuapp.com/?user=picklenik&background=0000&border=0000&stroke=aaa&ring=ffc89b&fire=f88469&currStreakLabel=f88469&currStreakNum=4a9e90&sideLabels=f88469&sideNums=4a9e90&dates=aaa" />
   </a>
 </div> -->
+
 <br/>
+
 <p align=center>
   <br />
   https://vuetube.app/
@@ -21,12 +24,15 @@
   <br />
   https://returnyoutubedislike.com/
   <br />
+  <!--  Discord Sticker  -->
   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
   &emsp;
+  <!--  Typing Text  -->
   <a href=https://readme-typing-svg.herokuapp.com/demo >
     <img src="https://readme-typing-svg.herokuapp.com?color=%23f88469&size=16&vCenter=true&center=false&&width=250&height=36&lines=Discord%3A%20PickleNik%230864;Hey+there;" />
   </a>
 </p>
+
 <!-- GitHub Stats -->
 <p align=center >
   <a href=https://github.com/anuraghazra/github-readme-stats >
@@ -35,11 +41,11 @@
 </p>
 
 
-<!-- Shield Badges -->
+<!-- Shield Badges (Kinda Ugly) -->
 <!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 <!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) -->
 
-<!-- Tech Stack Icons -->
+<!-- Tech Stack Icons (Row 1) -->
 <p align="center">
   <a href=https://vuejs.org >
     <img src=./stack/vuedotjs.svg alt=vuejs width=24 height=24 />
@@ -77,6 +83,7 @@
     <img src=./stack/vuetify.svg alt=vuetify width=24 height=24 />
   </a>
 </p>
+<!-- Tech Stack Icons (Row 2) -->
 <div align=center >
   <a href=https://linux.org >
     <img src=./stack/linux.svg alt=linux width=24 height=24 />
@@ -99,43 +106,47 @@
   </a>
 </div>
 
-<!-- Donut -->
-<p align=right>
+<!-- Donut gif -->
+<div align=right>
   <img width=120 src=https://data.whicdn.com/images/346072768/original.gif />
-</p>
-<!-- LinkedIn, Twattar, YouTube, DevTo, Medium, Dribbble -->
+</div>
+
+<!-- Socials -->
 <!-- <div align=right>
-  <a href=https://www.linkedin.com/in/picklenik>
+  <a href=https://www.linkedin.com/in/x>
     <img height=24 width=24 src=./links/linkedin.svg />
   </a>
   &nbsp;&nbsp;
-  <a href=https://twitter.com/pick1enik>
+  <a href=https://twitter.com/x>
     <img height=24 width=24 src=./links/twitter.svg />
   </a>
   &nbsp;&nbsp;
-  <a href=https://www.youtube.com/channel/UClAVtmyqWKT9HY8JX9aalCQ>
+  <a href=https://www.youtube.com/@x>
     <img height=24 width=24 src=./icons/youtube.svg />
   </a>
   &nbsp;&nbsp;
-  <a href=https://dev.to/picklenik>
+  <a href=https://dev.to/x>
     <img height=24 width=24 src=./links/devdotto.svg />
   </a>
   &nbsp;&nbsp;
-  <a href=https://medium.com/@picklenik>
+  <a href=https://medium.com/@x>
     <img height=24 width=24 src=./links/medium.svg />
   </a>
   &nbsp;&nbsp;
-  <a href=https://dribbble.com/pick1enik>
+  <a href=https://dribbble.com/x>
     <img height=24 width=24 src=./icons/dribbble.svg />
   </a>
   &emsp;
 </div> -->
-<!-- Monero -->
+
+<!-- Monero Wallet -->
 <!-- <div align=center>
   <img height=auto width=69 src=./monerochan.png />
     <br/>
-  XMR
+      XMR
     <br />
-  <code>45i71w3nFujicp2ztGjyAX9cFq8o42SmrPEfjm5ei9Lo3WeisQf5hCGXSnUYKgGh8EAYSt1XukQitUvoDteBeC1JDh8T3Uv</code>
+  <code>xyz</code>
 </div> -->
- <img align=right src="https://komarev.com/ghpvc/?username=picklenik" />
+
+<!-- Visitor Telemetry -->
+<img align=right src="https://komarev.com/ghpvc/?username=picklenik" />
