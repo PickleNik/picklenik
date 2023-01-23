@@ -1,5 +1,14 @@
 <!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O8D7CBX) -->
 
+<p>
+  <!--  Discord Sticker  -->
+  <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
+  &emsp;
+  <!--  Typing Text  -->
+  <a href=https://readme-typing-svg.herokuapp.com/demo >
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23f88469&size=16&vCenter=true&center=false&&width=250&height=36&lines=Discord%3A%20PickleNik%230864;Hey+there;" />
+  </a>
+</p>
 
 <!-- Color Palette (Deadlinks) -->
 <!-- ![#f88469](https://via.placeholder.com/16/f88469/000000?text=+) -->
@@ -24,13 +33,15 @@
   <br />
   https://returnyoutubedislike.com/
   <br />
+  https://picklenik.github.io/shrimple/
+  <br />
   <!--  Discord Sticker  -->
-  <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
-  &emsp;
+<!--   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
+  &emsp; -->
   <!--  Typing Text  -->
-  <a href=https://readme-typing-svg.herokuapp.com/demo >
+<!--   <a href=https://readme-typing-svg.herokuapp.com/demo >
     <img src="https://readme-typing-svg.herokuapp.com?color=%23f88469&size=16&vCenter=true&center=false&&width=250&height=36&lines=Discord%3A%20PickleNik%230864;Hey+there;" />
-  </a>
+  </a> -->
 </p>
 
 <!-- GitHub Stats -->
