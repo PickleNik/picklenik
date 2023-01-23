@@ -34,7 +34,6 @@
   https://returnyoutubedislike.com/
   <br />
   https://picklenik.github.io/shrimple/
-  <br />
   <!--  Discord Sticker  -->
 <!--   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
   &emsp; -->
@@ -47,9 +46,9 @@
 <!-- GitHub Stats -->
 <p align=center >
   <a href=https://github.com/anuraghazra/github-readme-stats >
-    <img width=420 height=165 src="https://github-readme-stats-fork-akd2.vercel.app/api?username=picklenik&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=aaa&border_radius=24" />
+    <img width=420 height=142 src="https://github-readme-stats-fork-akd2.vercel.app/api?username=picklenik&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=aaa&border_radius=24" />
   </a>
-</p>
+</4>
 
 
 <!-- Shield Badges (Kinda Ugly) -->
