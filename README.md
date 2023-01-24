@@ -23,8 +23,6 @@
   </a>
 </div> -->
 
-<br/>
-
 <p align=center>
   <br />
   https://vuetube.app/
