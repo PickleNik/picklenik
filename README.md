@@ -2,8 +2,8 @@
 
 <p>
   <!--  Discord Sticker  -->
-  <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
-  &emsp;
+<!--   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif /> -->
+<!--   &emsp; -->
   <!--  Typing Text  -->
   <a href=https://readme-typing-svg.herokuapp.com/demo >
     <img src="https://readme-typing-svg.herokuapp.com?color=%23f88469&size=16&vCenter=true&center=false&&width=250&height=36&lines=Discord%3A%20PickleNik%230864;Hey+there;" />
@@ -44,7 +44,7 @@
 <!-- GitHub Stats -->
 <p align=center >
   <a href=https://github.com/anuraghazra/github-readme-stats >
-    <img width=420 height=142 src="https://github-readme-stats-fork-akd2.vercel.app/api?username=picklenik&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=aaa&border_radius=24" />
+    <img width=420 height=142 src="https://github-readme-stats.vercel.app/api?username=picklenik&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=aaa&border_radius=24" />
   </a>
 </4>
 
