@@ -31,7 +31,6 @@
   <br />
   https://returnyoutubedislike.com/
   <br />
-  https://picklenik.github.io/shrimple/
   <!--  Discord Sticker  -->
 <!--   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
   &emsp; -->
