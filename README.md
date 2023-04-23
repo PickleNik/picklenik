@@ -22,7 +22,6 @@
     <img width=300 height=118 src="https://github-readme-streak-stats.herokuapp.com/?user=picklenik&background=0000&border=0000&stroke=aaa&ring=ffc89b&fire=f88469&currStreakLabel=f88469&currStreakNum=4a9e90&sideLabels=f88469&sideNums=4a9e90&dates=aaa" />
   </a>
 </div> -->
-<br/>
 <p align=center>
   <br/>
   https://vuetube.app
