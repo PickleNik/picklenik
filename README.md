@@ -26,7 +26,7 @@
 <div align=center >
   ____________
 </div>
-<div align=center>
+<p align=center>
   https://vuetube.app
   <br/>
   https://realzoo.itsyipy.com/links
@@ -39,12 +39,14 @@
 <!--   <a href=https://readme-typing-svg.herokuapp.com/demo >
     <img src="https://readme-typing-svg.herokuapp.com?color=%23f88469&size=16&vCenter=true&center=false&&width=250&height=36&lines=Discord%3A%20PickleNik%230864;Hey+there;" />
   </a> -->
-</div>
+</p>
 
 <!-- GitHub Stats -->
 <div align=center >
   <!-- for extra spacing on the top -->
+  <!-- broke mobile
   <img height=155 width=0 />
+  -->
   <a href=https://github.com/anuraghazra/github-readme-stats >
     <img width=420 height=142 src="https://github-readme-stats.vercel.app/api?username=picklenik&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=666&border_radius=24" />
   </a>
