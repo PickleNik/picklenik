@@ -22,14 +22,16 @@
     <img width=300 height=118 src="https://github-readme-streak-stats.herokuapp.com/?user=picklenik&background=0000&border=0000&stroke=aaa&ring=ffc89b&fire=f88469&currStreakLabel=f88469&currStreakNum=4a9e90&sideLabels=f88469&sideNums=4a9e90&dates=aaa" />
   </a>
 </div> -->
-<p align=center>
-  <br/>
+<br/>
+<div align=center >
+  ____________
+</div>
+<div align=center>
   https://vuetube.app
   <br/>
   https://realzoo.itsyipy.com/links
   <br/>
   https://returnyoutubedislike.com/links
-
   <!--  Discord Sticker  -->
 <!--   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
   &emsp; -->
@@ -37,10 +39,12 @@
 <!--   <a href=https://readme-typing-svg.herokuapp.com/demo >
     <img src="https://readme-typing-svg.herokuapp.com?color=%23f88469&size=16&vCenter=true&center=false&&width=250&height=36&lines=Discord%3A%20PickleNik%230864;Hey+there;" />
   </a> -->
-</p>
+</div>
 
 <!-- GitHub Stats -->
 <div align=center >
+  <!-- for extra spacing on the top -->
+  <img height=155 width=0 />
   <a href=https://github.com/anuraghazra/github-readme-stats >
     <img width=420 height=142 src="https://github-readme-stats.vercel.app/api?username=picklenik&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=666&border_radius=24" />
   </a>
@@ -113,6 +117,10 @@
   <a href=https://flutter.dev >
     <img src=./stack/flutter.svg alt=flutter width=22 height=22 />
   </a>
+</div>
+
+<div align=center >
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 </div>
 
 <!-- Donut gif -->
