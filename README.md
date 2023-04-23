@@ -24,13 +24,12 @@
 </div> -->
 
 <p align=center>
-  <br />
-  https://vuetube.app/
-  <br />
-  https://realzoo.itsyipy.com/
-  <br />
-  https://returnyoutubedislike.com/
-  <br />
+  https://vuetube.app
+  <br/>
+  https://realzoo.itsyipy.com/links
+  <br/>
+  https://returnyoutubedislike.com/links
+
   <!--  Discord Sticker  -->
 <!--   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
   &emsp; -->
@@ -43,9 +42,9 @@
 <!-- GitHub Stats -->
 <p align=center >
   <a href=https://github.com/anuraghazra/github-readme-stats >
-    <img width=420 height=142 src="https://github-readme-stats.vercel.app/api?username=picklenik&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=aaa&border_radius=24" />
+    <img width=420 height=142 src="https://github-readme-stats.vercel.app/api?username=picklenik&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=666&border_radius=24" />
   </a>
-</4>
+</p>
 
 
 <!-- Shield Badges (Kinda Ugly) -->
@@ -53,7 +52,7 @@
 <!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>) -->
 
 <!-- Tech Stack Icons (Row 1) -->
-<p align="center">
+<div align="center">
   <a href=https://vuejs.org >
     <img src=./stack/vuedotjs.svg alt=vuejs width=24 height=24 />
   </a>
@@ -89,9 +88,10 @@
   <a href=https://vuetifyjs.com/en >
     <img src=./stack/vuetify.svg alt=vuetify width=24 height=24 />
   </a>
-</p>
+</div>
 <!-- Tech Stack Icons (Row 2) -->
 <div align=center >
+  <p></p>
   <a href=https://linux.org >
     <img src=./stack/linux.svg alt=linux width=24 height=24 />
   </a>
