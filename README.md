@@ -23,9 +23,9 @@
   </a>
 </div> -->
 <br/>
-<div align=center >
+<!-- <div align=center >
   ____________
-</div>
+</div> -->
 <p align=center>
   https://vuetube.app
   <br/>
@@ -121,9 +121,9 @@
   </a>
 </div>
 
-<div align=center >
+<!-- <div align=center >
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-</div>
+</div> -->
 
 <!-- Donut gif -->
 <div align=right>
