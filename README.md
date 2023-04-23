@@ -40,11 +40,11 @@
 </p>
 
 <!-- GitHub Stats -->
-<p align=center >
+<div align=center >
   <a href=https://github.com/anuraghazra/github-readme-stats >
     <img width=420 height=142 src="https://github-readme-stats.vercel.app/api?username=picklenik&bg_color=0000&text_color=aaa&title_color=f88469&icon_color=ffc89b&show_icons=true&border_color=666&border_radius=24" />
   </a>
-</p>
+</div>
 
 
 <!-- Shield Badges (Kinda Ugly) -->
@@ -54,31 +54,32 @@
 <!-- Tech Stack Icons (Row 1) -->
 <div align="center">
   <a href=https://vuejs.org >
-    <img src=./stack/vuedotjs.svg alt=vuejs width=24 height=24 />
+    <img src=./stack/vuedotjs.svg alt=vuejs width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://nuxtjs.org >
-    <img src=./stack/nuxtdotjs.svg alt=nuxtjs width=24 height=24 />
+    <img src=./stack/nuxtdotjs.svg alt=nuxtjs width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://tailwindcss.com >
-    <img src=./stack/tailwindcss.svg alt=tailwind width=24 height=24 />
+    <img src=./stack/tailwindcss.svg alt=tailwind width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://www.selenium.dev >
-    <img src=./stack/selenium.svg alt=selenium width=24 height=24 />
+    <img src=./stack/selenium.svg alt=selenium width=22 height=22 />
   </a>
+  <img height=32 width=0 />
   &hairsp;
   <a href=https://www.ecma-international.org/publications-and-standards/standards/ecma-262 >
-    <img src=./stack/javascript.svg alt=javascript width=24 height=24 />
+    <img src=./stack/javascript.svg alt=javascript width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://firebase.google.com >
-    <img src=./stack/firebase.svg alt=firebase width=24 height=24 />
+    <img src=./stack/firebase.svg alt=firebase width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://svelte.dev >
-    <img src=./stack/svelte.svg alt=svelte width=24 height=24 />
+    <img src=./stack/svelte.svg alt=svelte width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://quasar.dev >
@@ -91,29 +92,29 @@
 </div>
 <!-- Tech Stack Icons (Row 2) -->
 <div align=center >
-  <p></p>
   <a href=https://linux.org >
-    <img src=./stack/linux.svg alt=linux width=24 height=24 />
+    <img src=./stack/linux.svg alt=linux width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://www.figma.com >
-    <img src=./stack/figma.svg alt=figma width=24 height=24 />
+    <img src=./stack/figma.svg alt=figma width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://www.gnu.org/software/emacs/ >
-    <img src=./stack/gnuemacs.svg alt=emacs width=24 height=24 />
+    <img src=./stack/gnuemacs.svg alt=emacs width=22 height=22 />
   </a>
   &hairsp;
+  <img height=32 width=0 />
   <a href=https://ubuntu.com >
-    <img src=./stack/ubuntu.svg alt=ubuntu width=24 height=24 />
+    <img src=./stack/ubuntu.svg alt=ubuntu width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://astro.build >
-    <img src=./stack/astro.svg alt=astro width=24 height=24 />
+    <img src=./stack/astro.svg alt=astro width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://flutter.dev >
-    <img src=./stack/flutter.svg alt=flutter width=24 height=24 />
+    <img src=./stack/flutter.svg alt=flutter width=22 height=22 />
   </a>
 </div>
 
