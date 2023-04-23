@@ -68,15 +68,15 @@
   </a>
   &hairsp;
   <a href=https://www.ecma-international.org/publications-and-standards/standards/ecma-262 >
-    <img src=./stack/javascript.svg alt=javascript width=26 height=26 />
+    <img src=./stack/javascript.svg alt=javascript width=30 height=26 />
   </a>
   &hairsp;
   <a href=https://firebase.google.com >
     <img src=./stack/firebase.svg alt=firebase width=26 height=26 />
   </a>
   &hairsp;
-  <a href=https://svelte.dev >
-    <img src=./stack/svelte.svg alt=svelte width=26 height=26 />
+  <a href=https://astro.build >
+    <img src=./stack/astro.svg alt=astro width=26 height=26 />
   </a>
   &hairsp;
   <a href=https://quasar.dev >
@@ -89,29 +89,29 @@
 </div>
 <!-- Tech Stack Icons (Row 2) -->
 <div align=center >
-  <img height=36 width=0 />
+  <img height=32 width=0 />
   <a href=https://linux.org >
-    <img src=./stack/linux.svg alt=linux width=24 height=24 />
+    <img src=./stack/linux.svg alt=linux width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://www.figma.com >
-    <img src=./stack/figma.svg alt=figma width=24 height=24 />
+    <img src=./stack/figma.svg alt=figma width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://www.gnu.org/software/emacs/ >
-    <img src=./stack/gnuemacs.svg alt=emacs width=24 height=24 />
+    <img src=./stack/gnuemacs.svg alt=emacs width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://ubuntu.com >
-    <img src=./stack/ubuntu.svg alt=ubuntu width=24 height=24 />
+    <img src=./stack/ubuntu.svg alt=ubuntu width=22 height=22 />
   </a>
   &hairsp;
-  <a href=https://astro.build >
-    <img src=./stack/astro.svg alt=astro width=24 height=24 />
+  <a href=https://svelte.dev >
+    <img src=./stack/svelte.svg alt=svelte width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://flutter.dev >
-    <img src=./stack/flutter.svg alt=flutter width=24 height=24 />
+    <img src=./stack/flutter.svg alt=flutter width=22 height=22 />
   </a>
 </div>
 
