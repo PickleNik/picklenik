@@ -108,7 +108,8 @@
     <img src=./stack/ubuntu.svg alt=ubuntu width=24 height=24 />
   </a>
   &hairsp;
-    <a href=https://astro.build >
+  <a href=https://astro.build >
+    <img src=./stack/astro.svg alt=astro width=24 height=24 />
   </a>
   &hairsp;
   <a href=https://flutter.dev >
