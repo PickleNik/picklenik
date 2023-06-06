@@ -27,7 +27,7 @@
   ____________
 </div> -->
 <p align=center>
-  https://vuetube.app
+  https://revanced.app
   <br/>
   https://realzoo.itsyipy.com/links
   <br/>
