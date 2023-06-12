@@ -4,8 +4,10 @@
   <!--  Discord Sticker  -->
 <!--   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif /> -->
 <!--   &emsp; -->
+  <img align=left width=69 src=./catcat.gif />
   <!--  Typing Text  -->
   <a href=https://readme-typing-svg.herokuapp.com/demo >
+    <p/>
     <img src="https://readme-typing-svg.herokuapp.com?color=%23f88469&size=16&vCenter=true&center=false&&width=250&height=36&lines=Discord%3A%20PickleNik%230864;Hey+there;" />
   </a>
 </p>
