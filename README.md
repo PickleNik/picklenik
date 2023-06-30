@@ -29,7 +29,7 @@
   ____________
 </div> -->
 <p align=center>
-  https://vuetube.app
+  https://vercel.lol
   <br/>
   https://realzoo.itsyipy.com/links
   <br/>
