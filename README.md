@@ -29,7 +29,7 @@
   ____________
 </div> -->
 <p align=center>
-  https://vercel.lol
+  https://ratelimited.lol
   <br/>
   https://realzoo.itsyipy.com/links
   <br/>
