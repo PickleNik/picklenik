@@ -28,10 +28,12 @@
 <!-- <div align=center >
   ____________
 </div> -->
-<p align=center>
-  https://ratelimited.lol
+<div align=center>
+  https://typehero.dev
   <br/>
   https://realzoo.itsyipy.com/links
+  <br/>
+  https://vercel.lol https://ratelimited.lol
   <br/>
   https://returnyoutubedislike.com/links
   <!--  Discord Sticker  -->
@@ -41,7 +43,7 @@
 <!--   <a href=https://readme-typing-svg.herokuapp.com/demo >
     <img src="https://readme-typing-svg.herokuapp.com?color=%23f88469&size=16&vCenter=true&center=false&&width=250&height=36&lines=Discord%3A%20PickleNik%230864;Hey+there;" />
   </a> -->
-</p>
+</div>
 
 <!-- GitHub Stats -->
 <div align=center >
