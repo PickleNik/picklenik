@@ -8,7 +8,7 @@
   <!--  Typing Text  -->
   <a href=https://readme-typing-svg.herokuapp.com/demo >
     <p/>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23f88469&size=16&vCenter=true&center=false&&width=250&height=36&lines=Discord%3A%20PickleNik%230864;Hey+there;" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23f88469&size=16&vCenter=true&center=false&&width=250&height=36&lines=Discord%3A%20PickleNik0864;Hey+there;" />
   </a>
 </p>
 
@@ -172,4 +172,9 @@
 </div> -->
 
 <!-- Visitor Telemetry -->
-<img align=right src="https://komarev.com/ghpvc/?username=picklenik" />
+<div>
+  <img align=right src="https://komarev.com/ghpvc/?username=picklenik" />
+  
+  Currently working on Homework, RealZooV2, [TypeHero](https://typehero.dev), [ResuAI](https://resuai.io)
+  
+</div>
