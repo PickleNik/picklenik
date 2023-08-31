@@ -171,6 +171,10 @@
 <!-- Donut gif -->
 <div>
   <img align=right width=120 src=https://data.whicdn.com/images/346072768/original.gif />
+  <br />
+  <br />
+  <br />
+
 
   > [!IMPORTANT]
   > Currently working on Homework, RealZooV2, [TypeHero](https://typehero.dev), [ResuAI](https://resuai.io)
