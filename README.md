@@ -183,4 +183,6 @@
 > [!IMPORTANT]
 > Currently working on Homework, RealZooV2, [TypeHero](https://typehero.dev), [ResuAI](https://resuai.io)
 
+
+<img width=20 src="" />
 </div>
