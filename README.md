@@ -130,9 +130,7 @@
 </div> -->
 
 <!-- Donut gif -->
-<div align=right>
-  <img width=120 src=https://data.whicdn.com/images/346072768/original.gif />
-</div>
+
 
 <!-- Socials -->
 <!-- <div align=right>
@@ -173,7 +171,12 @@
 
 <!-- Visitor Telemetry -->
 <div>
+  <p>
+  <img align=right width=120 src=https://data.whicdn.com/images/346072768/original.gif />
+  </p>
+  <div>
   <img align=right src="https://komarev.com/ghpvc/?username=picklenik" />
+  </div>
   <div>
 
   > [!IMPORTANT]
