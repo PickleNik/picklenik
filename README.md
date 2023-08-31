@@ -174,8 +174,11 @@
 <div>
   <img align=right width=120 src=https://data.whicdn.com/images/346072768/original.gif />
   <br />
-<!-- Visitor Telemetry -->
-<img src="https://komarev.com/ghpvc/?username=picklenik" />
+
+  <!-- Visitor Telemetry -->
+  <img src="https://komarev.com/ghpvc/?username=picklenik" />
+  <br />
+
 
 > [!IMPORTANT]
 > Currently working on Homework, RealZooV2, [TypeHero](https://typehero.dev), [ResuAI](https://resuai.io)
