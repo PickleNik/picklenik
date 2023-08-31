@@ -1,4 +1,5 @@
-<!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O8D7CBX) -->
+ > [!IMPORTANT]
+> <!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O8D7CBX) -->
 
 <p>
 <!--  Discord Sticker  -->
@@ -171,7 +172,6 @@
 <!-- Donut gif -->
 <div>
   <img align=right width=120 src=https://data.whicdn.com/images/346072768/original.gif />
-  <br />
   <br />
   <br />
 
