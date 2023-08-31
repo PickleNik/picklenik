@@ -175,9 +175,10 @@
   <img align=right width=120 src=https://data.whicdn.com/images/346072768/original.gif />
   <br />
 
-
-  > [!IMPORTANT]
-  ![](https://komarev.com/ghpvc/?username=picklenik)
-  > Currently working on Homework, RealZooV2, [TypeHero](https://typehero.dev), [ResuAI](https://resuai.io)
+> [!IMPORTANT]
+> 
+> ![tel](https://komarev.com/ghpvc/?username=picklenik)
+> 
+> Currently working on Homework, RealZooV2, [TypeHero](https://typehero.dev), [ResuAI](https://resuai.io)
 
 </div>
