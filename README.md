@@ -171,12 +171,11 @@
 <br />
 <br />
 <br />
-<!-- Visitor Telemetry -->
-<img src="https://komarev.com/ghpvc/?username=picklenik" />
 <div>
   <img align=right width=120 src=https://data.whicdn.com/images/346072768/original.gif />
   <br />
-
+<!-- Visitor Telemetry -->
+<img src="https://komarev.com/ghpvc/?username=picklenik" />
 > [!IMPORTANT]
 > Currently working on Homework, RealZooV2, [TypeHero](https://typehero.dev), [ResuAI](https://resuai.io)
 
