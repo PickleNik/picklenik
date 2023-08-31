@@ -177,7 +177,7 @@
 
 
   > [!IMPORTANT]
-  > ![](https://komarev.com/ghpvc/?username=picklenik)
+  ![](https://komarev.com/ghpvc/?username=picklenik)
   > Currently working on Homework, RealZooV2, [TypeHero](https://typehero.dev), [ResuAI](https://resuai.io)
 
 </div>
