@@ -174,5 +174,7 @@
 <!-- Visitor Telemetry -->
 <div>
   <img align=right src="https://komarev.com/ghpvc/?username=picklenik" />
-  Currently working on Homework, RealZooV2, <a href=https://typehero.dev >TypeHero</a>, <a href=https://resuai.io >ResuAI</a>
+
+> [!IMPORTANT]
+> Currently working on Homework, RealZooV2, [TypeHero](https://typehero.dev), [ResuAI](https://resuai.io)
 </div>
