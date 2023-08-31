@@ -169,14 +169,10 @@
 </div> -->
 
 <!-- Donut gif -->
-<div align=right>
-  <img align=right width=120 src=https://data.whicdn.com/images/346072768/original.gif />
-</div>
-
 <div>
+  <img align=right width=120 src=https://data.whicdn.com/images/346072768/original.gif />
 
   > [!IMPORTANT]
   > Currently working on Homework, RealZooV2, [TypeHero](https://typehero.dev), [ResuAI](https://resuai.io)
 
-   <img align=right width=120 src=https://data.whicdn.com/images/346072768/original.gif />
 </div>
