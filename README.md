@@ -178,9 +178,7 @@
 > [!IMPORTANT]
 > 
 > ![tel](https://komarev.com/ghpvc/?username=picklenik)
-> <!-- Visitor Telemetry -->
-<img src="https://komarev.com/ghpvc/?username=picklenik" />
-> 
+> ![image](https://github.com/cmsc330fall23/cmsc330fall23/assets/31113245/de6fe60c-48ec-4c73-a82e-b3d121a725b2)
 > Currently working on Homework, RealZooV2, [TypeHero](https://typehero.dev), [ResuAI](https://resuai.io)
 
 </div>
