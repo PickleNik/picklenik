@@ -1,7 +1,11 @@
 <!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O8D7CBX) -->
 
+<!-- Visitor Telemetry -->
+<div>
+  <img align=right src="https://komarev.com/ghpvc/?username=picklenik" />
+</div>
 <p>
-  <!--  Discord Sticker  -->
+<!--  Discord Sticker  -->
 <!--   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif /> -->
 <!--   &emsp; -->
   <img align=left width=69 src=./catcat.gif />
@@ -10,6 +14,7 @@
     <p/>
     <img src="https://readme-typing-svg.herokuapp.com?color=%23f88469&size=16&vCenter=true&center=false&&width=250&height=36&lines=Discord%3A%20PickleNik0864;Hey+there;" />
   </a>
+
 </p>
 
 <!-- Color Palette (Deadlinks) -->
@@ -129,9 +134,6 @@
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 </div> -->
 
-<!-- Donut gif -->
-
-
 <!-- Socials -->
 <!-- <div align=right>
   <a href=https://www.linkedin.com/in/x>
@@ -169,18 +171,14 @@
   <code>xyz</code>
 </div> -->
 
-<!-- Visitor Telemetry -->
+<!-- Donut gif -->
+<div align=right>
+  <img width=120 src=https://data.whicdn.com/images/346072768/original.gif />
+</div>
+
 <div>
-  <p>
-  <img align=right width=120 src=https://data.whicdn.com/images/346072768/original.gif />
-  </p>
-  <div>
-  <img align=right src="https://komarev.com/ghpvc/?username=picklenik" />
-  </div>
-  <div>
 
   > [!IMPORTANT]
   > Currently working on Homework, RealZooV2, [TypeHero](https://typehero.dev), [ResuAI](https://resuai.io)
 
-  </div>
 </div>
