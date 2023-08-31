@@ -11,8 +11,6 @@
     <p/>
     <img src="https://readme-typing-svg.herokuapp.com?color=%23f88469&size=16&vCenter=true&center=false&&width=250&height=36&lines=Discord%3A%20PickleNik0864;Hey+there;" />
   </a>
-  <!-- Visitor Telemetry -->
-  <img align=right src="https://komarev.com/ghpvc/?username=picklenik" />
 </p>
 
 <!-- Color Palette (Deadlinks) -->
@@ -176,10 +174,10 @@
 <div>
   <img align=right width=120 src=https://data.whicdn.com/images/346072768/original.gif />
   <br />
-  <br />
 
 
   > [!IMPORTANT]
+  > ![](https://komarev.com/ghpvc/?username=picklenik)
   > Currently working on Homework, RealZooV2, [TypeHero](https://typehero.dev), [ResuAI](https://resuai.io)
 
 </div>
