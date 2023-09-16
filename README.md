@@ -181,6 +181,6 @@
 
 
 > [!IMPORTANT]
-> Currently working on Homework, RealZooV2, [TypeHero](https://typehero.dev), [ResuAI](https://resuai.io)
+> Currently working on Homework, [TypeHero](https://typehero.dev)
 
 </div>
