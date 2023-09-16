@@ -181,6 +181,6 @@
 
 
 > [!IMPORTANT]
-> Currently working on Homework, [TypeHero](https://typehero.dev)
+> Currently working on [TypeHero](https://typehero.dev)
 
 </div>
