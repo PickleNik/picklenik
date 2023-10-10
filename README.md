@@ -181,6 +181,6 @@
 
 
 > [!IMPORTANT]
-> Currently working on [TypeHero](https://typehero.dev)
+> Currently working on [TypeHero](https://typehero.dev), [create-expo-stack](https://expostack.dev/)
 
 </div>
