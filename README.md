@@ -170,17 +170,14 @@
 <!-- Donut gif -->
 <br />
 <br />
-<br />
-<div>
-  <img align=right width=120 src=https://data.whicdn.com/images/346072768/original.gif />
-  <br />
-
+<div align=right>
+  <img width=80 src=https://data.whicdn.com/images/346072768/original.gif />
+  <br/>
   <!-- Visitor Telemetry -->
   <img src="https://komarev.com/ghpvc/?username=picklenik" />
-  <br />
-
-
-> [!IMPORTANT]
-> Currently working on [TypeHero](https://typehero.dev), [create-expo-stack](https://expostack.dev/), [overlayed](https://overlayed.dev)
-
+  <br/>
+  <!-- > [!IMPORTANT] -->
+  <!-- > -->
+  
+  Currently working on [TypeHero](https://typehero.dev), [create-expo-stack](https://expostack.dev/), [overlayed](https://overlayed.dev)
 </div>
