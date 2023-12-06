@@ -179,5 +179,5 @@
   <!-- > [!IMPORTANT] -->
   <!-- > -->
   
-  Currently working on [TypeHero](https://typehero.dev), [create-expo-stack](https://expostack.dev/), [overlayed](https://overlayed.dev)
+  <div>Currently working on <a href="https://typehero.dev">TypeHero</a>, <a href="https://expostack.dev/">ExpoStack</a>, <a href="https://overlayed.dev">Overlayed</a></div>
 </div>
