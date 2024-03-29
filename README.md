@@ -178,5 +178,5 @@
   <!-- > [!IMPORTANT] -->
   <!-- > -->
   
-  <div>Currently working on <a href="https://typehero.dev">TypeHero</a>, <a href="https://expostack.dev/">ExpoStack</a>, <a href="https://overlayed.dev">Overlayed</a></div>
+  <div>Currently learning Haskell :c
 </div>
