@@ -178,5 +178,5 @@
   <!-- > [!IMPORTANT] -->
   <!-- > -->
   
-  <div>Currently learning Haskell :c
+  <div>Currently working on <a href="https://nativewindui.com/">NativeWindUI.com</a> c:
 </div>
