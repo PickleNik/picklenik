@@ -178,5 +178,5 @@
   <!-- > [!IMPORTANT] -->
   <!-- > -->
   
-  <div>Currently working on <a href="https://nativewindui.com/">NativeWindUI.com</a> c:
+  <div>Currently working on <b><a href="https://nativewindui.com/">NativeWindUI.com</a></b> c:
 </div>
