@@ -183,4 +183,4 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: 40px 40px; background-position: -19px -19px; background-repeat: both; width: 130vw; opacity: 0.5; background:radial-gradient(#f8f 1px, transparent 0);]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; width: 130vw; opacity: 1; background:linear-gradient(135deg, #f8f, #8f8);]{x0000}$}
