@@ -182,4 +182,4 @@
 </div>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; opacity: 1; background-size: 40px 40px; background-image:linear-gradient(to right, #8888 1px, transparent 1px),linear-gradient(to bottom, #8888 1px, transparent 1px);]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; opacity: 1; background-size: 40px 40px; background-image:radial-gradient(circle, #8888 1px, transparent 1px);]{x0000}$}
