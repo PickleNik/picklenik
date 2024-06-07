@@ -182,6 +182,9 @@
 </div>
 
 ```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -420; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; opacity: 1; background: linear-gradient(135deg, #8f8, #88f, #8ff, #f8f, #ff8, #f88);]{x0000}$}
+
+```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -69; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; opacity: 1; background: url('https://github.com/PickleNik/picklenik/blob/main/rupert-black.gif?raw=true');]{x0000}$}
 
 ```math
