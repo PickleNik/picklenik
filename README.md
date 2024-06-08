@@ -182,13 +182,13 @@
 </div>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -420; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; opacity: 1; background: linear-gradient(135deg, #8f8, #88f, #8ff, #f8f, #ff8, #f88);]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -420; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; opacity: 1; background: radial-gradient(circle, #8888 1px, transparent 1px); background-size: 40px 40px;]{x0000}$}
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -69; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; opacity: 1; background: url('https://github.com/PickleNik/picklenik/blob/main/rupert-black.gif?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -69; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; opacity: 0.7; background: url('https://github.com/PickleNik/picklenik/blob/main/rupert-black.gif?raw=true'); background-size: 40px 40px;]{x0000}$}
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 69; position: fixed; left: 50dvi; bottom: -1rem; background-position: 0 0; translate: -50% 0%; opacity: 0.5; background-repeat: no-repeat; background-size: 100% 100%; height: 228px; width: 10000px; animation: 5s linear both alternate infinite shrink-x; background: url('https://github.com/PickleNik/picklenik/blob/main/parrot-party.gif?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; backdrop-filter: invert(1); ]{x0000}$}
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 69; position: fixed; left: 50dvi; top: 0; background-position: 0 0; translate: -50% 0%; opacity: 0.5; background-repeat: no-repeat; transform: scaleY(-1); background-size: 100% 100%; height: 228px; width: 10000px; animation: 5s linear both alternate-reverse infinite shrink-x; background: url('https://github.com/PickleNik/picklenik/blob/main/parrot-party.gif?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 69; position: fixed; left: 50dvi; bottom: -3rem; background-position: 0 0; translate: -50% 0%; opacity: 0.5; background-repeat: no-repeat; background-size: 100% 100%; height: 228px; width: 10000px; animation: 5s linear both alternate-reverse infinite shrink-x; background: url('https://github.com/PickleNik/picklenik/blob/main/amogus.webp?raw=true');]{x0000}$}
