@@ -189,7 +189,7 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -69420; position: fixed; top: 0; left: 20vmin; height: 50vmin; width: 50vmin; object-fit: cover; opacity: 0.5; border-radius: 100%; background:linear-gradient(135deg,#ff8, #8df);filter:blur(69px);]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -69420; position: fixed; top: 0; left: 20vmin; height: 50vmin; width: 50vmin; object-fit: cover; opacity: 0.5; border-radius: 100%; background:linear-gradient(135deg,#ff8, #d8f);filter:blur(69px);]{x0000}$}
 
 
 ```math
