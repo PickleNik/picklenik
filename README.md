@@ -185,10 +185,10 @@
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -420; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; opacity: 1; background: radial-gradient(circle, #8888 1px, transparent 1px); background-size: 40px 40px; background-repeat: space;]{x0000}$}
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -69; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; opacity: 0.7; background: url('https://github.com/PickleNik/picklenik/blob/main/rupert-black.gif?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -69; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; opacity: 0.7; background-image: url('https://github.com/PickleNik/picklenik/blob/main/rupert-black.gif?raw=true');]{x0000}$}
 
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; backdrop-filter: saturate(150%) ]{x0000}$}
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 69; position: fixed; left: 50dvi; top: 50dvi; background-position: 0 0; object-fit: contain; translate: -50% -50%; opacity: 0.5; background-size: 50% 50%; height: 150vh; width: 100000px; animation: 50s linear both alternate infinite shrink-x; background: url('https://github.com/PickleNik/picklenik/blob/main/amogus.webp?raw=true') no-repeat; background-repeat: no-repeat !important;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 69; position: fixed; left: 50dvi; top: 50dvi; background-position: 0 0; object-fit: contain; translate: -50% -50%; opacity: 0.5; background-size: 50% 50%; height: 150vh; width: 100000px; animation: 50s linear both alternate infinite shrink-x; background-image: url('https://github.com/PickleNik/picklenik/blob/main/amogus.webp?raw=true'); background-repeat: both;]{x0000}$}
