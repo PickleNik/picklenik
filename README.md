@@ -191,4 +191,4 @@
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; backdrop-filter: invert(1); ]{x0000}$}
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 69; position: fixed; left: 50dvi; bottom: -1rem; background-position: 0 0; translate: -50% 0%; opacity: 0.5; background-repeat: no-repeat; background-size: contain; height: 100px; width: 10000px; animation: 5s linear both alternate-reverse infinite shrink-x; background: url('https://github.com/PickleNik/picklenik/blob/main/amogus.webp?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 69; position: fixed; left: 50dvi; bottom: -1rem; background-position: 0 0; object-fit: contain; translate: -50% 0%; opacity: 0.5; background-repeat: no-repeat; background-size: contain; height: 100px; width: 100px; animation: 5s linear both alternate-reverse infinite shrink-x; background: url('https://github.com/PickleNik/picklenik/blob/main/amogus.webp?raw=true');]{x0000}$}
