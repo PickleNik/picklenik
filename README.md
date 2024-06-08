@@ -183,7 +183,7 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -69; position: fixed; bottom: -2rem; left: 0; height: 120vh; width: 100vw; opacity: 1; background: url('https://github.com/PickleNik/picklenik/blob/main/xp.webp?raw=true') no-repeat; background-size: 100% 100vh; background-position: bottom center !important; ]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -69; position: fixed; bottom: -2rem; left: 0; height: 120vh; width: 100vw; opacity: 1; background: url('https://github.com/PickleNik/picklenik/blob/main/xp.webp?raw=true') no-repeat; background-size: fit; background-position: bottom center !important; ]{x0000}$}
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 420; position: fixed; bottom: -2rem; left: 0; height: 120vh; width: 100vw; opacity: 0.8; background: url('https://github.com/PickleNik/picklenik/blob/main/xpfg.png?raw=true') no-repeat; background-size: 100% auto; background-position: bottom center !important; ]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 420; position: fixed; bottom: -2rem; left: 0; height: 120vh; width: 100vw; opacity: 0.8; background: url('https://github.com/PickleNik/picklenik/blob/main/xpfg.png?raw=true') no-repeat; background-size: fit; background-position: bottom center !important; ]{x0000}$}
