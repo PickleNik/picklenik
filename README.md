@@ -182,18 +182,7 @@
 </div>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -420; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; opacity: 1; background: radial-gradient(circle, #8888 1px, transparent 1px); background-size: 40px 40px; background-repeat: space;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -69; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; opacity: 1; background-image: url('xp.webp?raw=true'); background-size: cover; background-position: bottom center;]{x0000}$}
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -69; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; opacity: 0.7; background-image: url('https://github.com/PickleNik/picklenik/blob/main/rupert-black.gif?raw=true');]{x0000}$}
-
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -69420; position: fixed; top: 0; left: 20vmin; height: 50vmin; width: 50vmin; object-fit: cover; opacity: 0.5; border-radius: 100%; background:linear-gradient(135deg,#ff8, #d8f);filter:blur(69px);]{x0000}$}
-
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; backdrop-filter: saturate(125%); ]{x0000}$}
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 69; position: fixed; left: 50dvi; top: 50%; transform:scaleX(-1); background-position: 5000px 0; object-fit: contain; translate: -50% 0%; opacity: 0.25; background-size: contain; height: 90vh; width: 100000px; animation: 150s linear both infinite shrink-x; background-image: url('https://github.com/PickleNik/picklenik/blob/main/amogus.png?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 69; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; object-fit: cover; opacity: 1; background-image: url('xpfg.webp?raw=true'); background-size: cover; background-position: bottom center;]{x0000}$}
