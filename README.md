@@ -167,9 +167,8 @@
 </div> -->
 
 <!-- Donut gif -->
-```math
-\ce{$\unicode[
-```
+<br />
+<br />
 <div align=right>
   <img width=80 src=https://data.whicdn.com/images/346072768/original.gif />
   <br/>
