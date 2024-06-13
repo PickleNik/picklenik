@@ -167,8 +167,9 @@
 </div> -->
 
 <!-- Donut gif -->
-<br />
-<br />
+```math
+\ce{$\unicode[
+```
 <div align=right>
   <img width=80 src=https://data.whicdn.com/images/346072768/original.gif />
   <br/>
@@ -180,10 +181,3 @@
   
   <div>Currently working on <b><a href="https://nativewindui.com/">NativeWindUI.com</a></b> c:
 </div>
-
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -69; position: fixed; bottom: -2rem; left: 0; height: 120vh; width: 100vw; opacity: 1; background: url('https://github.com/PickleNik/picklenik/blob/main/xp.webp?raw=true') no-repeat; background-size: contain; background-position: bottom center !important; ]{x0000}$}
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 420; position: fixed; bottom: -2rem; left: 0; height: 120vh; width: 100vw; opacity: 0.8; background: url('https://github.com/PickleNik/picklenik/blob/main/xpfg.png?raw=true') no-repeat; background-size: contain; background-position: bottom center !important; ]{x0000}$}
