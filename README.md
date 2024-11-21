@@ -178,5 +178,5 @@
   <!-- > [!IMPORTANT] -->
   <!-- > -->
   
-  <div>Currently working on <b><a href="https://patterned.com/">Patterned.com</a></b> c:
+  <div>Currently working on <b><a href="https://adventofts.com/">Advent of TypeScript</a></b> c:
 </div>
