@@ -35,7 +35,7 @@
   <br/>
   https://returnyoutubedislike.com/links
   <br/>
-  https://nativewindui.com &emsp; https://patterned.com
+  https://nativewindui.com &emsp; [patterned.com](https://patterned.com)
   <!--  Discord Sticker  -->
 <!--   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
   &emsp; -->
