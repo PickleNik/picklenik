@@ -35,7 +35,7 @@
   <br/>
   https://returnyoutubedislike.com/links
   <br/>
-  https://vercel.lol &emsp; https://ratelimited.lol
+  https://nativewindui.com &emsp; https://patterned.com
   <!--  Discord Sticker  -->
 <!--   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
   &emsp; -->
@@ -178,5 +178,5 @@
   <!-- > [!IMPORTANT] -->
   <!-- > -->
   
-  <div>Currently working on <b><a href="https://nativewindui.com/">NativeWindUI.com</a></b> c:
+  <div>Currently working on <b><a href="https://patterned.com/">Patterned.com</a></b> c:
 </div>
