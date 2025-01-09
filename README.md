@@ -1,6 +1,3 @@
-
-<!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O8D7CBX) -->
-
 <div>
 <!--  Discord Sticker  -->
 <!--   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif /> -->
@@ -66,18 +63,19 @@
   <!-- precisely control vertical spacing inside markdown without <br /> or <p></p> -->
   <img height=32 width=0 />
   <a href=https://supabase.com >
-    <img src=./stack/supabase.svg alt=supabase width=26 height=26 />
-  </a>
-  <a href=https://vuejs.org >
-    <img src=./stack/vuedotjs.svg alt=vuejs width=26 height=26 />
-  </a>
-  &hairsp;
-  <a href=https://nuxtjs.org >
-    <img src=./stack/nuxtdotjs.svg alt=nuxtjs width=26 height=26 />
+    <img src=./stack/supabase.svg alt=supabase width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://tailwindcss.com >
-    <img src=./stack/tailwindcss.svg alt=tailwind width=26 height=26 />
+    <img src=./stack/tailwindcss.svg alt=tailwind width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://vuejs.org >
+    <img src=./stack/vuedotjs.svg alt=vuejs width=22 height=22 />
+  </a>
+  &hairsp;
+  <a href=https://nuxtjs.org >
+    <img src=./stack/nuxtdotjs.svg alt=nuxtjs width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://www.ecma-international.org/publications-and-standards/standards/ecma-262 >
@@ -85,19 +83,19 @@
   </a>
   &hairsp;
   <a href=https://firebase.google.com >
-    <img src=./stack/firebase.svg alt=firebase width=26 height=26 />
+    <img src=./stack/firebase.svg alt=firebase width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://astro.build >
-    <img src=./stack/astro.svg alt=astro width=26 height=26 />
+    <img src=./stack/astro.svg alt=astro width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://quasar.dev >
-    <img src=./stack/quasar.svg alt=quasar width=26 height=26 />
+    <img src=./stack/quasar.svg alt=quasar width=22 height=22 />
   </a>
   &hairsp;
   <a href=https://vuetifyjs.com/en >
-    <img src=./stack/vuetify.svg alt=vuetify width=26 height=26 />
+    <img src=./stack/vuetify.svg alt=vuetify width=22 height=22 />
   </a>
 </div>
 <!-- Tech Stack Icons (Row 2) -->
@@ -106,6 +104,7 @@
   <a href=https://nextjs.org >
     <img src=./stack/nextdotjs.svg alt=nextjs width=22 height=22 />
   </a>
+  &hairsp;
   <a href=https://linux.org >
     <img src=./stack/linux.svg alt=linux width=22 height=22 />
   </a>
@@ -131,7 +130,7 @@
   </a>
 </div>
 <div align=center >
-...
+----------------------
 </div>
 
 <!-- <div align=center >
@@ -164,15 +163,6 @@
     <img height=24 width=24 src=./icons/dribbble.svg />
   </a>
   &emsp;
-</div> -->
-
-<!-- Monero Wallet -->
-<!-- <div align=center>
-  <img height=auto width=69 src=./monerochan.png />
-    <br/>
-      XMR
-    <br />
-  <code>xyz</code>
 </div> -->
 
 <!-- Donut gif -->
