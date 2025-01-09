@@ -65,6 +65,9 @@
 <div align="center">
   <!-- precisely control vertical spacing inside markdown without <br /> or <p></p> -->
   <img height=32 width=0 />
+  <a href=https://supabase.com >
+    <img src=./stack/supabase.svg alt=supabase width=26 height=26 />
+  </a>
   <a href=https://vuejs.org >
     <img src=./stack/vuedotjs.svg alt=vuejs width=26 height=26 />
   </a>
@@ -100,6 +103,9 @@
 <!-- Tech Stack Icons (Row 2) -->
 <div align=center >
   <img height=32 width=0 />
+  <a href=https://nextjs.org >
+    <img src=./stack/nextdotjs.svg alt=nextjs width=22 height=22 />
+  </a>
   <a href=https://linux.org >
     <img src=./stack/linux.svg alt=linux width=22 height=22 />
   </a>
