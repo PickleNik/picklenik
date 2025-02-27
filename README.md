@@ -26,13 +26,11 @@
   ____________
 </div> -->
 <div align=center>
-  <a href="https://typehero.dev">TypeHero.dev</a>
+  <a href="https://nativewindui.com">nativewindui.com</a>
   <br/>
-  <a href="https://adventofts.com">AdventofTS.com</a>
+  <a href="https://typehero.dev">typehero.dev</a> &nbsp; <a href="https://adventofts.com">adventofts.com</a>
   <br/>
-  <a href="https://returnyoutubedislike.com/links">ReturnYouTubeDislike.com</a>
-  <br/>
-  <a href="https://nativewindui.com">NativeWindUI.com</a> &emsp; <a href="https://patterned.com">patterned.com</a>
+  <a href="https://returnyoutubedislike.com/links">returnyoutubedislike</a> &nbsp; <a href="https://patterned.com">patterned.com</a>
   <!--  Discord Sticker  -->
 <!--   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
   &emsp; -->
@@ -41,6 +39,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%23f88469&size=16&vCenter=true&center=false&&width=250&height=36&lines=Discord%3A%20PickleNik%230864;Hey+there;" />
   </a> -->
 </div>
+
 
 <!-- GitHub Stats -->
 <div align=center >
