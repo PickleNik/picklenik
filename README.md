@@ -177,5 +177,5 @@
   <!-- > [!IMPORTANT] -->
   <!-- > -->
   
-  <div>Currently working on <b><a href="https://patterned.com/">Patterned</a></b> c:
+  <div>Currently working on <b><a href="https://www.nativewind.dev/">NativeWind Docs</a></b> c:
 </div>
