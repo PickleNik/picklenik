@@ -26,13 +26,13 @@
   ____________
 </div> -->
 <div align=center>
-  https://typehero.dev
+  <a href="https://typehero.dev">TypeHero.dev</a>
   <br/>
-  https://realzoo.itsyipy.com/links
+  <a href="https://adventofts.com">AdventofTS.com</a>
   <br/>
-  https://returnyoutubedislike.com/links
+  <a href="https://returnyoutubedislike.com/links">ReturnYouTubeDislike.com</a>
   <br/>
-  https://nativewindui.com &emsp; <a href="https://patterned.com">patterned.com</a>
+  <a href="https://nativewindui.com">NativeWindUI.com</a> &emsp; <a href="https://patterned.com">patterned.com</a>
   <!--  Discord Sticker  -->
 <!--   <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
   &emsp; -->
